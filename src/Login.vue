@@ -89,6 +89,7 @@
         width: 400px;
          color: #fff;
         border: 2px solid #ccc;
+        /* background-image: url('./assets/deng.jpg') */
     }
     .cont h2{
         margin: 10px 0;

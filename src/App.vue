@@ -22,7 +22,7 @@
       <div class="center">
         <div class="left-nav">
           <ul>
-            <li :class='{current:currentRoute=="/Homepage"}'>
+            <li :class='{current:currentRoute=="/"}'>
               <i class="fa fa-bank"></i>
               <router-link to='/Homepage'>首页</router-link>
               <i class="fa fa-angle-right"></i>
